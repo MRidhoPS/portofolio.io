@@ -58308,7 +58308,7 @@ U(a){var s=null,r=this.c,q=this.d,p=q*0.06,o=t.F
 return A.dI(s,A.tR(A.a([A.i_(A.a([A.adn(A.fL(A.a([A.fL(s,A.iG(s,s,B.b6,s,s,s,s,s,s,s,s,p,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"MOBILE DEVELOPER\n"),A.fL(s,A.iG(s,s,B.i,s,s,s,s,s,s,s,s,p,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"OR "),A.fL(s,A.iG(s,s,B.b6,s,s,s,s,s,s,s,s,p,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"UI DESIGN\n"),A.fL(s,A.iG(s,s,B.i,s,s,s,s,s,s,s,s,p,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"ENTHUSIAST")],t.nO),s,s),s,s),B.ee,B.K7,A.a7P(s,A.dI(s,B.wn,s,new A.dG(B.b6,s,s,A.hV(13),s,s,B.aA),45,B.y0,s,150),B.ap,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.RV(),s,s,s)],o),B.a2,B.aF),A.a7F(A.iC(A.S8("/assets/Saly.png",B.d1,s,s),q*0.6,r*0.5))],o),B.a2,B.dM,B.aR),s,s,q*0.8,B.y1,s,r)}}
 A.RV.prototype={
 $0(){var s=document.createElement("a")
-s.href="/assets/cv.pdf"
+s.href="cv.pdf"
 s.download="Cv Ridho"
 s.click()},
 $S:0}
